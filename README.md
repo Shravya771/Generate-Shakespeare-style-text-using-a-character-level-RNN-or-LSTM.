@@ -60,4 +60,15 @@ The following hyperparameters were used and tuned:
 ### 🎯 Final Validation Accuracy
 - Achieved accuracy: **%** (insert final val accuracy from notebook)
 
-### 🔍 Sample Generated Text
+
+---
+
+## 📌 Instructions to Run
+
+1. Clone this repository
+2. Upload `kaggle.json` to authenticate
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+
