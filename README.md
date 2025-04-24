@@ -58,6 +58,6 @@ The following hyperparameters were used and tuned:
 ## 🧪 Outputs & Results
 
 ### 🎯 Final Validation Accuracy
-- Achieved accuracy: **~XX%** (insert final val accuracy from notebook)
+- Achieved accuracy: **%** (insert final val accuracy from notebook)
 
 ### 🔍 Sample Generated Text
